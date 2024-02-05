@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 class rectarea{
 		double l,b;
 	
@@ -13,11 +11,9 @@ class rectarea{
 }
 	public static void main(String[] args){
 
-		Scanner scanner = new Scanner(System.in);
 		rectarea r = new rectarea();
 		r.setData(12.38,13);
 		System.out.println("Area of rectangle = "+r.getArea());
-		scanner.close();
 			
 	}
 }
