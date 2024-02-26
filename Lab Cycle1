@@ -1,0 +1,26 @@
+LAB CYCLE 1
+
+1.Write a program to display the message “WELCOME JAVA”.
+
+2. Create a class Rectangle with instance variable length and breadth. Define a 
+method setData for setting values of instance variables and a method getArea 
+to return the area of Rectangle using the class. Find the area of the rectangle 
+using the values length = 12.48 and breadth = 13.
+
+3. Write a program to read integer from keyboard and check whether the 
+number is even or odd.
+
+4. Define a class 'product' with data members pcode , pname and price. Create 
+three objects of the class and find the product having the lowest price.
+
+5. Read two matrices from the console and perform matrix addition.
+
+6. Write a program to perform complex number addition.
+
+7. Read a matrix from the console and check whether it is symmetric/not
+
+8. Write a program to print the leap years within the given range
+
+9. Create CPU with attribute price. Create an inner class processor (no of cores,
+manufacturer ) and static nested class RAM(memory, manufacturer). Create an 
+object of CPU and print information of processor and RAM.
