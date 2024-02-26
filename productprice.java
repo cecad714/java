@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 class product{
 	String pcode,pname;
