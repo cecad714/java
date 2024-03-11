@@ -24,3 +24,15 @@ three objects of the class and find the product having the lowest price.
 9. Create CPU with attribute price. Create an inner class processor (no of cores,
 manufacturer ) and static nested class RAM(memory, manufacturer). Create an 
 object of CPU and print information of processor and RAM.
+
+LAB CYCLE 2 
+10. Write a Program which accepts the marks of a student into a 1D array from the
+keyboard. Calculate and display total marks & percentage obtained by the student.
+11. Program to sort strings.
+12. Program to sort characters from a string.
+13. Search an element in an array.
+14. Perform string manipulation (using Built-in methods of String Class and StringBuffer
+Class)
+15. Program to create a class for Employee having attributes eNo, eName,Salary. Read n 
+employee information and search for an employee given eNo using the concept of array of 
+objects.
